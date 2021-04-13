@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "jsmediatags": "^3.9.5",
     "linkifyjs": "^3.0.0-beta.3"
   }
 }
